@@ -3,6 +3,9 @@
  */
 package starfishportal.googleplaceservice.hostservice;
 
+import starfishportal.googleplaceservice.hostservice.googleplace.contracts.*;
+
+
 
 /**
  * @author SAJAN
